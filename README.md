@@ -2,7 +2,8 @@
 
 An interactive Excel dashboard that analyzes coffee order data — sales trends, top customers, and revenue by country — built entirely with native Excel features (PivotTables, PivotCharts, and Slicers). No add-ins or macros required.
 
-![Dashboard Screenshot](https://1drv.ms/i/c/486f4efd15da186f/IQDFsIdLZVEGTIAxD3wExuZgAZRowrOQne6Lmm9d3WVf9Ow?e=AvgNUn)
+![Dashboard Screenshot](<img width="1920" height="1080" alt="Screenshot 2026-09-05 101422" src="https://github.com/user-attachments/assets/e65a42d5-afbe-40c6-baf2-eebd38405798" />
+)
 
 ---
 
